@@ -5,36 +5,32 @@
 
 Me chamo Aline Matoso, tenho 22 anos e sou natural de Curitiba, Paraná. Atualmente, estou cursando Ciência da Computação, na universidade Positivo.
 
-<a href="mailto:alinematosolima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/aline-matoso-0b919326a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://github.com/AlineMatoso?tab=followers">
-    <img 
-        alt="Seguidores" 
-        title="Me siga no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/followers/AlineMatoso?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-</a>
-
----
-
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineMatoso&show_icons=true&theme=shadow_green)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineMatoso&layout=compact&show_icons=true&theme=shadow_green)
-
+<div align="left">
+    <a href="mailto:alinematosolima@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 10px;">
+    </a>
+    <a href="https://www.linkedin.com/in/aline-matoso-0b919326a/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;">
+    </a>
+    <a href="https://github.com/AlineMatoso?tab=followers">
+        <img src="https://img.shields.io/github/followers/AlineMatoso?style=for-the-badge&logo=github&label=Seguidores&color=blue" alt="Seguidores">
+    </a>
 </div>
 
----
-
-## Linguagens e Tecnologias:
+## 🛠️ Linguagens e Tecnologias:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Aline-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Aline-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Aline-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Aline-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Aline-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Aline-PY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Aline-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+    <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
+
+## 📊 Estatísticas do GitHub:
+
+![Estatísticas do GitHub](https://github-readme-stats-one-bice.vercel.app/api?username=AlineMatoso&show_icons=true&theme=radical)
+
+![Top Linguagens](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AlineMatoso&layout=compact&theme=radical)
