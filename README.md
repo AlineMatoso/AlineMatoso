@@ -33,4 +33,4 @@ Me chamo Aline Matoso, tenho 22 anos e sou natural de Curitiba, Paraná. Atualme
 
 ![Estatísticas do GitHub](https://github-readme-stats-one-bice.vercel.app/api?username=AlineMatoso&show_icons=true&theme=radical)
 
-![Top Linguagens](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AlineMatoso&layout=compact&theme=radical)
+![Top Linguagens](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AlineMatoso&layout=compact&theme=radical&hide=Rich%20Text%20Format)
